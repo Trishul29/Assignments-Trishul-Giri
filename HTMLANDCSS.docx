@@ -1,10 +1,1300 @@
-{city:"ATLANTA",state:"d
-distributed abd centralized version control system
-clonig in git 
-branching in git 
-repository  staging area 
-merge and challanges faced in branch merge
-git checkot
- gitdiff and git status
-commeting file directly to repo withot add
-merge and rebases                                                                                                                                                                                                                                                                                                                                                                                                                                        sz
+
+1.
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Testing....</title>
+    </head>
+    <body>
+        <div style="background-color: yellow; height: 200px; 
+width:50%;">
+            <h1 style="background-color: red;">This is a heading</h1>
+   <p style="background-color: green;">This is 	paragraph.</p><br>
+        </div>
+    </body>
+</html>
+
+
+2<!DOCTYPE html>
+<html>
+    <head>
+        <title>Testing....</title>
+    </head>
+    <body>
+        <span>Create a link of an image:</span>
+<a href="wwww.google.com"> <img src="img/smile.jpeg" 	alt="smile 	image" style="height: 20px;border: 2px solid 	purple;"></a>
+
+        <p><span>border around the image, but still a link:</span> 
+<a href="wwww.google.com"> <img src="img/smile.jpeg" 	alt="smile image" style="height: 20px;"></a></p>
+    </body>
+</html>
+
+3.
+
+<!DOCTYPE=<Html>
+<head><title>Third page0</title>
+<style>
+table,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+p.table{
+    font-weight: bold;
+}
+td{
+    padding: 4px 4px;
+}
+
+</style></head>
+<body>
+    <p>Each table starts with a table tag.Each table row starts with a tr tag.Each table data starts with a td tag.</p>
+<p class ="table">one column:</p>
+<table><tr><td>100</td></tr>></table>
+
+<p class="table">one row and three column:</p>
+<table><tr><td>100</td>
+    <td>200</td>
+    <td>300</td>
+</tr></table>
+
+<p class="table">Two rows three columns:</p>
+<table>
+    <tr>
+    <td>100</td>
+    <td>200</td>
+    <td>300</td>
+ </tr>
+    <tr>
+        <td>400</td>
+        <td>500</td>
+        <td>600</td>
+    </tr>
+</table>
+
+</body>
+
+</Html>
+
+4.
+
+<!DOCTYPE=<Html>
+    <head><title>fourth page</title>
+        <style>
+        
+            
+    
+        table.border, table.border td {
+        border: 2px solid black;
+        border-collapse: collapse;
+
+    }
+    p.table{font-weight: bold;}
+    td{
+        padding: 4px 4px;
+    }
+    
+    </style>
+    </head>
+    <body>
+      
+    
+    <p class="table">This table has  borders:</p>
+    <table>
+        <tr>
+        <td>100</td>
+        <td>200</td>
+        <td>300</td>
+     </tr>
+        <tr>
+            <td>400</td>
+            <td>500</td>
+            <td>600</td>
+        </tr>
+    </table>
+    <p class="table">This table has no borders:</p>
+    <table>
+        <tr>
+        <td>100</td>
+        <td>200</td>
+        <td>300</td>
+     </tr>
+        <tr>
+            <td>400</td>
+            <td>500</td>
+            <td>600</td>
+        </tr>
+    </table>
+    
+    </body>
+    
+    </Html>
+
+5.
+<!DOCTYPE=<Html>
+    <head><title>fourth page</title>
+        <style>
+        
+            
+    
+        table.border, table.border td {
+        border: 2px solid black;
+        border-collapse: collapse;
+
+    }
+    p.table{font-weight: bold;}
+    td{
+        padding: 4px 4px;
+    }
+    
+    </style>
+    </head>
+    <body>
+      
+    
+    <p class="table">This table has  borders:</p>
+    <table>
+        <tr>
+        <td>100</td>
+        <td>200</td>
+        <td>300</td>
+     </tr>
+        <tr>
+            <td>400</td>
+            <td>500</td>
+            <td>600</td>
+        </tr>
+    </table>
+    <p class="table">This table has no borders:</p>
+    <table>
+        <tr>
+        <td>100</td>
+        <td>200</td>
+        <td>300</td>
+     </tr>
+        <tr>
+            <td>400</td>
+            <td>500</td>
+            <td>600</td>
+        </tr>
+    </table>
+    
+    </body>
+    
+    </Html><!DOCTYPE=<Html>
+        <head><title>fourth page</title>
+            <style>
+            
+                
+        
+            table.border, table.border td {
+            border: 2px solid black;
+            border-collapse: collapse;
+    
+        }
+        p.table{font-weight: bold;}
+        td{
+            padding: 4px 4px;
+        }
+        
+        </style>
+        </head>
+        <body>
+          
+        
+        <p class="table">This table has  borders:</p>
+        <table>
+            <tr>
+            <td>100</td>
+            <td>200</td>
+            <td>300</td>
+         </tr>
+            <tr>
+                <td>400</td>
+                <td>500</td>
+                <td>600</td>
+            </tr>
+        </table>
+        <p class="table">This table has no borders:</p>
+        <table>
+            <tr>
+            <td>100</td>
+            <td>200</td>
+            <td>300</td>
+         </tr>
+            <tr>
+                <td>400</td>
+                <td>500</td>
+                <td>600</td>
+            </tr>
+        </table>
+        
+        </body>
+        
+        </Html><!DOCTYPE=<Html>
+            <head><title>fourth page</title>
+                <style>
+                
+                    
+            
+                table.border, table.border td {
+                border: 2px solid black;
+                border-collapse: collapse;
+        
+            }
+            p.table{font-weight: bold;}
+            td{
+                padding: 4px 4px;
+            }
+            
+            </style>
+            </head>
+            <body>
+              
+            
+            <p class="table">This table has  borders:</p>
+            <table>
+                <tr>
+                <td>100</td>
+                <td>200</td>
+                <td>300</td>
+             </tr>
+                <tr>
+                    <td>400</td>
+                    <td>500</td>
+                    <td>600</td>
+                </tr>
+            </table>
+            <p class="table">This table has no borders:</p>
+            <table>
+                <tr>
+                <td>100</td>
+                <td>200</td>
+                <td>300</td>
+             </tr>
+                <tr>
+                    <td>400</td>
+                    <td>500</td>
+                    <td>600</td>
+                </tr>
+            </table>
+            
+            </body>
+            
+            </Html>
+
+6
+<!DOCTYPE html>
+<body>
+
+    <input type="checkbox" id="bike" name="bikeCheckbox">
+<label for="bike"><strong>I have a bike</strong></label>
+<br>
+<input type="checkbox" id="car" name="carCheckbox">
+<label for="car"><strong>I have a car</strong></label>
+<br>
+<input type="button" value="submit">
+
+</body>
+
+7.<!DOCTYPE html>
+<body><!DOCTYPE html>
+<html>
+<head>
+  <title>Testing...</title>
+  <style>
+    th{
+      background-color: #116e52;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+     <table style="border: 1px solid; border-collapse: collapse;">
+         <tr>
+             <th colspan="2">top</th>
+        </tr>
+        <tr>
+           <td style="border: 1px solid; padding: 20px 20px 0px 0px; 
+background-color: gray;">left</td>
+            <td style="border: 1px solid; padding: 20px 20px 0px 0px; 				               background-color: lightgray;">right</td>
+       </tr>
+    </table>
+</body>
+</html>
+
+9.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Testing...</title> 
+  <style>
+    table{
+      border: 1px solid;
+      border-collapse: collapse;
+    }
+  </style>  
+</head>
+    <body>
+       <table>
+           <tr>
+               <td style="border: 1px solid;background-color: lightgray;">topleft</td>
+               <td style="border: 1px solid;background-color: gray;" >toprigth</td>
+           </tr>
+           <tr>
+            <td style="border: 1px solid; padding: 20px 5px 0px 0px; background-color:gray;">botleft</td>
+            <td style="border: 1px solid; padding: 20px 5px 0px 0px ; background-color:lightgray;">botright</td>
+           </tr>
+       </table>
+    </body>
+</html>
+
+10.
+
+<!DOCTYPE html>
+<head><title>css assignment12</title>
+<link rel="styleSheet" href="styleSheet.css"></head>
+<body>
+    <div>
+<h1>CSS background-color example:</h1>
+<p class="grey">This text inside a div element</p>
+<p>This paragraph has its own background color</p>
+<p class="grey">This paragraph has its own background color</p>
+    </div>
+</body>
+
+11.
+
+<!DOCTYPE html>
+<head>
+    <link rel="styleSheet" href="styleSheet.css"
+</head>
+<body>
+    <div>
+    <h1>This is heading 1</h1>
+    <h2>This is heading 2 </h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    </div>
+</body>
+</html>
+
+12.
+
+<!DOCTYPE html>
+<head>
+    <link rel="styleSheet" href="styleSheet.css"
+</head>
+<body>
+ <div>
+     <P>THIS IS SOME TEXT</p>
+        <P>This is some text</p>
+            <P>This is some text</p>
+ </div>
+</body>
+
+13.
+<!DOCTYPE html>
+<head>
+    <link rel="styleSheet" href="styleSheet.css"
+</head>
+<body>
+<div>
+<a href="www.c2g.com">This is a link</a>
+
+</div>
+
+</body>
+
+14.
+
+<!DOCTYPE html>
+<head>
+    <link rel="styleSheet" href="styleSheet.css"
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td><b>First name</b></td>
+                <td><b>LastName</b></td>
+
+            </tr>
+            <tr>
+                <td>peter</td>
+                <td>Griffin</td>
+            </tr>
+            <tr>
+                <td>
+                    lois
+                </td>
+                <td>Griffin</td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+15.
+
+<!DOCTYPE html>
+<head><link rel="styleSheet" href=styleSheet.css"</head>
+<body>
+    <div>
+<table>
+<tr>
+    <th>first name</th>
+    <th>lastname</th>
+    <th>savings</th>
+</tr>
+<tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+  <tr>
+    <td>Cleveland</td>
+    <td>Brown</td>
+    <td>$250</td>
+  </tr>
+
+
+
+</table>
+
+
+    </div>
+</body>
+
+
+16.
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Testing....</title> 
+        <link rel="stylesheet" href="styleSheet.css">
+    </head>
+    <body>
+      <div>
+        <p><span><b></span>Note:</span></b>IE8 supprts the online properties only if 				a !DOCTYPE is specified.</p>
+      </div>    
+    </body>
+</html>
+
+17.
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Testing....</title> 
+        <link rel="stylesheet" href="styleSheet.css">
+    </head>
+    <body>
+      <div>
+        <p class="b1">Some text.</p>
+        <p class="b2">Some text.</p>
+        <p class="b3">Some text.</p>
+        <p></p>
+      </div>    
+    </body>
+</html>
+
+---------------------------------------------------------------
+Tribute page assignment
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    
+ 
+    <link rel="stylesheet" href="styleSheet.css">
+    <title>Tribute Page | Virat Kohli - The modern Day King</title>
+  </head>
+  <body>
+    <main id="main" class="bg-light">
+    <div>
+              <h1 id="title" class="lg-title">virat Kohli</h1>
+              <h3 class="subtitle font-italic font-weight-light">
+                ~ The modern day king of Cricket~
+              </h3>
+                <figure>
+                  <img id="image" class="img-fluid" src="/tribute image/virat kohli.jpg" alt="picture  of Virat Kohli after a knock of 133*">
+                  <figurecaption id="img-caption"><em>
+                    Virat kolhi 133* notout innings vs Australia at Nagpur.</em>
+                  </figurecaption>
+                </figure>
+              </div>
+           
+
+
+      <section id="tribute-info">
+       
+           
+              <article>
+                <h1 class="article-title"><strong>Who is Virat Kohli?</strong></h1>
+                <div class="article-content text-justify mt-4">
+                  <p>India has given to the world many a great cricketer but perhaps none as ambitious as Virat Kohli. To meet his ambition, Kohli employed the technical assiduousness of Sachin Tendulkar and fitness that was in the league of top athletes in the world, not just cricketers. As a result, Kohli became the most consistent all-format accumulator of his time, making jaw-dropping chases look easy, and finding, in his own words, the safest possible way to score runs. Plenty of them.
+                 
+                  </p>
+                  <p>
+                    This ambition transferred seamlessly to his captaincy: he demanded more than ever of his bowlers especially the quick ones, often sacrificed a batsman for bowling depth, and led India to a long stay at No. 1 in Test rankings and a first-ever series win in Australia. He is well on his way to end up as India's most successful Test captain...
+
+                    Barring one in Bangladesh, Kohli scored Test hundreds in and against every country he played. He absolutely smashed records for number of matches taken to reach eight, nine, ten and eleven thousand ODI runs. He was a genuine threat to Sachin Tendulkar's record of 49 ODI and 51 Test hundreds.
+                  </p>
+                  
+
+                </div>
+              </article>
+              <div class ="achievement">
+                  <h3>List of some key achievement of his life:</h3>
+                  <ul>
+                      <li><strong>2008:</strong>Victory in under-19 worldcup under his captency. </li>
+                      <li><strong>2013</strong>Reached first rank in icc odi player of the year for first time.</li>
+                      <li><strong>2014,2016:</strong>Won icc man of the series award. </li>
+                      <li><strong>2016:</strong>four ipl century in 2016 edition of ipl.</li>
+                      <li><strong>2017:</strong>Became full time indian team captain in odi and test.</li>
+
+                  </ul>
+
+
+              </div>
+              <article>
+
+
+
+
+              </article>
+              <div class="learn-more text-left my-5">
+                <h3> Want to see more about Virat kolhi. Visit
+                  <a id="tribute-link" href="https://en.wikipedia.org/virat_kohli" target="_blank">
+                    Wikipedia</a>
+                </h3>
+              </div>
+            </div>
+      </section>
+    </main>
+    <footer class="mt-5">
+      <p class="text-center">
+        <span>Made  </i></span>
+        <span>by :Trishul Giri</span>
+      </p>
+    </footer>
+  </body>
+</html>
+
+
+styleSheet.css
+
+html {
+    
+    font-size: 10px;
+}
+
+
+body {
+   
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+}
+
+a {
+    color: #477ca7;
+}
+
+a:visited {
+    color: #74638f;
+}
+
+.lg-title {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+#title {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+}
+
+.subtitle {
+    margin-top: 15px;
+}
+
+main {
+    padding-top: 50px;
+}
+
+#img-div {
+    background: #fff !important;
+    padding: 5px;
+    padding-bottom: 0;
+}
+
+figure #image {
+    display: block;
+    margin: 0 auto;
+    max-width: 878px;
+    width: 100%;
+    padding-bottom: 6px;
+    border: 1px solid black;
+}
+li{
+
+font-size: 2px;
+
+
+}
+
+
+
+#tribute-info article {
+    background: #fff;
+    padding: 10px 20px;
+}
+
+#tribute-info article p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: "open Sans",sans-serif;
+    text-align: left;
+    padding-top: 9px;
+    letter-spacing: -0.044px;
+    line-height: 1.78em;
+    font-weight: 400;
+    color: #000;
+    font-size: 1.75rem;
+}
+
+
+footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+}
+
+footer {
+    background: #c4bbbb;
+    color: #fff;
+    min-height: 40px;
+    padding: 10px;
+}
+
+footer a {
+    color: aqua;
+    text-decoration: underline;
+    vertical-align: center;
+}
+
+footer a:visited {
+    color: rgb(137, 90, 214);
+}
+
+@media screen and (max-width: 455px) {
+    #tribute-info article p {
+        text-align: left;
+        padding-top: 9px;
+        letter-spacing: -0.775px;
+        line-height: 1.75em;
+        font-weight: 300;
+        color: #000;
+        font-size: 1.75rem;
+    }
+}
+li
+{
+    text-align: left;
+
+    font-size:15px;
+    margin: 2px;
+   
+
+
+}
+h3.achievement {
+text-align: left;
+color: rgb(0, 0, 0);
+}
+ a:hover
+{
+    background-color: rgb(212, 23, 16);
+    color: cornsilk;
+
+}
+----------------------------------------------------------------
+Survey form assignment
+
+<!DOCTYPE html>
+<head>
+    <title>survey form</title>
+    <style>
+ body {
+            background-color: #7f9284;
+            font-family: Verdana;
+            text-align: center;
+        }
+        form {
+            background-color: #fff;
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 30px 20px;
+        }
+        .form-control {
+            text-align: left;
+            margin-top: 25px;
+            margin-bottom: 25px;
+        }
+        .form-control label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        button {
+            background-color: #05c46b;
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            font-size: 21px;
+            display:inline;
+            width: 100%;
+            margin-top: 50px;
+            margin-bottom: 20px;
+        }
+        .form-control input,
+        .form-control select,
+        .form-control textarea {
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family:inherit;
+            padding: 10px;
+            display:inline;
+            width:auto;
+        }
+        .form-control input[type="radio"],
+        .form-control input[type="checkbox"] {
+            display: inline;
+            width: auto;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>User survey Form</h1>
+   
+    <!-- Create Form -->
+    <form id="form">
+  
+        <!-- Details -->
+        <div class="form-control">
+            <label for="name" id="label-name">
+                Name
+            </label>
+  
+            <!-- Input Type Text -->
+            <input type="text"
+                   id="name"
+                   placeholder="Enter your name" required />
+        </div>
+   
+        <div class="form-control">
+            <label for="email" id="label-email">
+                Email
+            </label>
+  
+            <!-- Input Type Email-->
+            <input type="email"
+                   id="email"
+                   placeholder="Enter your email" required />
+        </div>
+   
+        <div class="form-control">
+            <label for="age" id="label-age">
+                Age
+            </label>
+  
+            <!-- Input Type Text -->
+            <input type="text"
+                   id="age"
+                   placeholder="Enter your age" required />
+        </div>
+   
+        <div class="form-control">
+            <label for="role" id="label-role">
+                Which option best describes you?
+            </label>
+              
+            <!-- Dropdown options -->
+            <select name="role" id="role">
+                <option value="student">Student</option>
+                <option value="intern">Intern</option>
+                <option value="professional">
+                    Professional
+                </option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+   
+        <div class="form-control">
+            <label>
+                Would you recommed us 
+                to a freind?
+            </label>
+  
+            <!-- Input Type Radio Button -->
+            <label for="recommed-1">
+                <input type="radio"
+                       id="recommed-1"
+                       name="recommed">Yes</input>
+            </label>
+            <label for="recommed-2">
+                <input type="radio"
+                       id="recommed-2"
+                       name="recommed">No</input>
+            </label>
+            <label for="recommed-3">
+                <input type="radio"
+                       id="recommed-3"
+                       name="recommed">Maybe</input>
+            </label>
+        </div>
+   
+        <div class="form-control">
+            <label>Languages and Frameworks known 
+                <small>(Check all that apply)</small>
+            </label>
+            <!-- Input Type Checkbox -->
+            <label for="inp-1">
+                <input type="checkbox"
+                       name="inp">C</input></label>
+            <label for="inp-2">
+                <input type="checkbox"
+                       name="inp">C++</input></label>
+            <label for="inp-3">
+                <input type="checkbox"
+                       name="inp">C#</input></label>
+            <label for="inp-4">
+                <input type="checkbox"
+                       name="inp">Java</input></label>
+            <label for="inp-5">
+                <input type="checkbox"
+                       name="inp">Python</input></label>
+            <label for="inp-6">
+                <input type="checkbox"
+                       name="inp">JavaScript</input></label>
+            <label for="inp-7">
+                <input type="checkbox"
+                       name="inp">React</input></label>
+            <label for="inp-7">
+                <input type="checkbox"
+                       name="inp">Angular</input></label>
+            <label for="inp-7">
+                <input type="checkbox"
+                       name="inp">Django</input></label>
+            <label for="inp-7">
+                <input type="checkbox"
+                       name="inp">Spring</input></label>
+        </div>
+   
+        <div class="form-control">
+            <label for="comment">
+                Any comments or suggestions
+            </label>
+  
+            <!-- multi-line text input control -->
+            <textarea name="comment" id="comment"
+                placeholder="Enter your comment here">
+            </textarea>
+        </div>
+   
+        <!-- Multi-line Text Input Control -->
+        <button type="submit" value="submit">
+            Submit
+        </button>
+    </form>
+</body>
+   
+</html>
+----------------------------------------------------------------
+Resturant homepage assignment
+html file:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>DinenFine Resturant home page</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+	<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+
+<!-- navigation section -->
+<section class="navbar navbar-default navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header">
+			<a href="#" class="navbar-brand">DinenFine</a>
+		</div>
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="#home" class="smoothScroll">HOME</a></li>
+				<li><a href="#menu" class="smoothScroll">SPECIAL MENU</a></li>
+				<li><a href="#contact" class="smoothScroll">CONTACT</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+
+<!-- home section -->
+<section id="home" class="parallax-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-sm-12">
+				<h1>DinenFine RESTAURANT</h1>
+				<h2>CLEAN &amp; SIMPLE</h2>
+                <a href="#home" class="home">LEARN MORE</a>
+			</div>
+		</div>
+	</div>		
+</section>
+
+
+
+
+<!-- menu section -->
+<section id="menu" class="parallax-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
+				<h1 class="heading">Special Menu</h1>
+				<hr>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<h4>Lemon-Rosemary Vegetable ................ <span>$20.50</span></h4>
+				<h5>Chicken / Rosemary / Lemon</h5>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<h4>Lemon-Rosemary Meat ........................... <span>$30.50</span></h4>
+				<h5>Meat / Rosemary / Lemon</h5>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<h4>Lemon-Rosemary Pork ........................ <span>$40.75</span></h4>
+				<h5>Pork / Tooplate / Lemon</h5>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<h4>Orange-Rosemary Salad .......................... <span>$55.00</span></h4>
+				<h5>Salad / Rosemary / Orange</h5>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<h4>Lemon-Rosemary Squid ...................... <span>$65.00</span></h4>
+				<h5>Squid / Rosemary / Lemon</h5>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<h4>Orange-Rosemary Shrimp ........................ <span>$70.50</span></h4>
+				<h5>Shrimp / Rosemary / Orange</h5>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<h4>Lemon-Rosemary Prawn ................... <span>$110.75</span></h4>
+				<h5>Chicken / Rosemary / Lemon</h5>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<h4>Lemon-Rosemary Seafood ..................... <span>$220.50</span></h4>
+				<h5>Seafood / Rosemary / Lemon</h5>
+			</div>
+		</div>
+	</div>
+</section>		
+
+
+		
+
+<!-- contact section -->
+<section id="contact" class="parallax-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-1 col-md-10 col-sm-12 text-center">
+				<h1 class="heading">Contact Us</h1>
+				<hr>
+			</div>
+			<div class="col-md-offset-1 col-md-10 col-sm-12 wow fadeIn" data-wow-delay="0.9s">
+				<form action="#" method="post">
+					<div class="col-md-6 col-sm-6">
+						<input name="name" type="text" class="form-control" id="name" placeholder="Name">
+				  </div>
+					<div class="col-md-6 col-sm-6">
+						<input name="email" type="email" class="form-control" id="email" placeholder="Email">
+				  </div>
+					<div class="col-md-12 col-sm-12">
+						<textarea name="message" rows="8" class="form-control" id="message" placeholder="Message"></textarea>
+					</div>
+					<div class="col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
+						<input name="submit" type="submit" class="form-control" id="submit" value="make a reservation">
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- footer section -->
+<footer class="parallax-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s">
+				<h2 class="heading">Contact Info.</h2>
+				<div class="ph">
+					<p><i class="fa fa-phone"></i> Phone</p>
+					<h4>090-080-0760</h4>
+				</div>
+				<div class="address">
+					<p><i class="fa fa-map-marker"></i> Our Location</p>
+					<h4>120 Downtown, street 44D  LOS ANGELES, USA</h4>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-4 wow fadeInUp" >
+				<h2 class="heading">Open Hours</h2>
+					<p>Sunday <span>10:30 AM - 10:00 PM</span></p>
+					<p>Mon-Fri <span>9:00 AM - 8:00 PM</span></p>
+					<p>Saturday <span>11:30 AM - 10:00 PM</span></p>
+			</div>
+			<div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s">
+				<h2 class="heading">Follow Us</h2>
+				<ul class="social-icon">
+					<li><a href="Dinenfine@facebook.com" class="facebook" ></a></li>
+					<li><a href="@DineAnF.twitter.com" class="twitter " ></a></li>
+				
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+<!-- copyright section -->
+<section id="copyright">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-sm-12">
+				<h3>DinenFine</h3>
+				<p>Copyright © DinenFine Restaurant and Cafe 
+                
+
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+</body>
+</html>
+
+style.css:
+
+
+
+
+body
+	{
+		background: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    position: relative;
+	}
+
+.heading {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.subheading {
+  font-size: 16px;
+  padding-bottom: 60px;
+}
+
+p {
+  color: #848484;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 28px;
+}
+
+hr {
+	border-top: 2px solid #828282;
+	width: 120px;
+}
+
+#menu, #gallery, #team {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+#menu, #contact {
+  background: #f0f0f0;
+}
+
+
+/* start navigation */
+.navbar-default {
+  background: #ffffff;
+  box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
+  border: none;
+  margin-bottom: 0;
+}
+.navbar-brand, .navbar-nav li a {
+  line-height: 28px;
+}
+.navbar-default .navbar-brand  {
+  color: #5C5C5C;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.navbar-default .navbar-nav li a {
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+/* home section */
+#home {
+  color: #070606;
+  display:block;
+  
+ align-items: center;
+  height:initial;
+  text-align: center;
+}
+#home h1 {
+  font-size: 20px;
+  letter-spacing: 8px;
+  font-style: normal;
+  padding: top 0%;;
+  font: #030303;
+}
+
+
+
+
+/* menu section */
+#menu h4 {
+	line-height: 1.5;
+}
+#menu .col-md-8 {
+  padding-bottom: 42px;
+}
+#menu .col-md-6 {
+  padding-bottom: 18px;
+}
+#menu span {
+  color: #5C5C5C;
+}
+
+
+/* contact section */
+#contact {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+#contact .col-md-8 {
+  margin-bottom: 32px;
+}
+#contact .form-control {
+  background: #ffffff;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  transition: all 0.4s ease-in-out;
+}
+#contact .form-control:focus {
+  border-color: #f9f9f9;
+}
+#contact input {
+  height: 48px;
+}
+#contact input[type="submit"] {
+  background: transparent;
+  border: 2px solid #999;
+  border-radius: 10px;
+  letter-spacing: 2px;
+  margin-top: 12px;
+  height: 50px;
+}
+#contact input[type="submit"]:hover {
+  background: #999;
+  color: #ffffff;
+}
+
+/* footer section */
+footer {
+  
+  color: #0e0202;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+footer h2 {
+  padding-bottom: 14px;
+}
+footer h3 {
+  padding-top: 8px;
+}
+footer p {
+  color: #ffffff;
+}
+footer span {
+  font-weight: bold;
+  padding-left: 24px;
+}
+footer .ph, footer .address {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+footer .fa {
+  font-size: 12px;
+  padding-right: 10px;
+}
+
+
+
+/* copyright section */
+#copyright {
+  background: #343434;
+  color: #ffffff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+#copyright p {
+  color: #ffffff;
+}
+#copyright a {
+  color: #ffffff;
+}
+#copyright a:hover {
+  color: #FF0;
+}
